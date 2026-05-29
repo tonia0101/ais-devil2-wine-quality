@@ -1,0 +1,5 @@
+{
+    "model_type": "RandomForestClassifier",
+    "accuracy": 0.6923076923076923,
+    "metrics_per_class": "              precision    recall  f1-score   support\n\n           3       0.00      0.00      0.00         6\n           4       0.70      0.16      0.26        43\n           5       0.75      0.73      0.74       428\n           6       0.66      0.78      0.72       567\n           7       0.65      0.57      0.61       216\n           8       0.88      0.36      0.51        39\n           9       0.00      0.00      0.00         1\n\n    accuracy                           0.69      1300\n   macro avg       0.52      0.37      0.41      1300\nweighted avg       0.69      0.69      0.68      1300\n"
+}
